@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+#objects
+obj/
+
 #binary
 quizengine
 
