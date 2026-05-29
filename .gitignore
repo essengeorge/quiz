@@ -31,3 +31,7 @@ go.work.sum
 #macOS, vim
 .DS_Store
 *.swp
+
+#contents
+*.qze
+quizzes_list.txt
